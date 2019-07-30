@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <book id="bk109">
+        <author>Kress, Peter</author>
+        <title>Paradox Lost</tilte>
+        <genre>SF</genre>
+        <price>6.95</price>
+        <publish_date>2000-11-02 </publish_date>
+</book>
+    <book id="bk110">
+        <author>Knorr, Stefan</author>
+        <title>Creepy</tilte>
+        <genre>Horror</genre>
+        <price>3.95</price>
+        <publish_date>2005-11-02 </publish_date>
+</book>
+    <book id="bk111">
+        <author>Brien, Tim</author>
+        <title>Splash</tilte>
+        <genre>Romance</genre>
+        <price>5.30</price>
+        <publish_date>2010-10-02 </publish_date>
+</book>
+</catalog>
